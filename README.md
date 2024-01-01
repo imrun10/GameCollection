@@ -1,5 +1,5 @@
 # Game Collection
-A guessing game collection with a customizable font size & background color that has two games:
+A game collection with a customizable font size & background color that has two games:
 
 ## Guessing game:
 The player must correctly guess the randomly generated number between 0 and 100. If the player gives up, they can click a button to reveal the correct answer.
